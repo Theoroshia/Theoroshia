@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Theoroshia/azure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Theoroshia/azure-network)
 - <b>HTML/CSS</b>
-  -[Learning w3CSS to Quickly Build Mobile Safe Websites](https://github.com/Theoroshia/w3css_projects)
+  - [Learning w3CSS to Quickly Build Mobile Safe Websites](https://github.com/Theoroshia/w3css_projects)
 
 <h2>Connect with me:</h2>
 
