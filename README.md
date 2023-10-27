@@ -11,7 +11,3 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Theoroshia/azure-network)
 - <b>HTML/CSS</b>
   - [Learning w3CSS to Quickly Build Mobile Safe Websites](https://github.com/Theoroshia/w3css_projects)
-
-<h2>Connect with me:</h2>
-
-[linkedin]: https://linkedin.com/in/adsf
